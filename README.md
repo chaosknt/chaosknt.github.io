@@ -10,6 +10,7 @@
 
 <h3>PHP</h3>
 <ul>
+  <li><a href="https://github.com/chaosknt/loginConCRUDUsuarios">Login con roles  y permisos y CRUD MVC de usuarios</a></li>
   <li><a href="https://github.com/chaosknt/DetectDivice">Detectar dispositivo</a></li>
   <li><a href="https://github.com/chaosknt/sendEmail">Enviar correos con funcion mail</a></li>
   <li><a href="http://oxxon-cd.com/">Pagina web responsive</a></li> 
