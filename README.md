@@ -9,8 +9,7 @@
   <li>Linq</li>
 </ul>
 
-<p>Con este proyecto aprendi a realizar un proyecto con el enfoque code First desde cero. Pude crear entidades con sus validaciones utilizando las Data Annotations que me ofrece el lenguaje, pude configurar el contexto con dataBase in memory primer y luego hacer la migracion a SQL Server, pude  crear ABMs completos de cada entidad tanto
-de manera manual con Razor Pages y de manera automática utilizando Scaffolding. Tambien pude manejar sesiones, identidades y roles, configurar diferentes permisos para cada rol gracias a Indentity.</p>
+<p>Con este proyecto aprendi a realizar un proyecto con el enfoque code First desde cero utilizando el patron MVC. Pude crear entidades con sus validaciones utilizando las Data Annotations que me ofrece el lenguaje, pude configurar el contexto de la base de datos primero con database  in memory  y luego hacer la migracion a SQL Server, pude  crear ABMs completos de cada entidad tanto de manera manual con Razor Pages y de manera automática utilizando Scaffolding. Tambien pude manejar sesiones, identidades y roles, configurar diferentes permisos para cada rol gracias a Indentity.</p>
 
 <p>URL: <a href="https://github.com/chaosknt/reservaEspectaculo">Reserva de espectáculo</a> </p>
 
