@@ -4,8 +4,7 @@
 <h4>Tecnologías</h4>
 <ul>
   <li>ASP.NET CORE</li>
-  <li>Entity Framework</li>
-  <li>ASP.NET Core Identity</li>
+  <li>Entity Framework</li>  
   <li>SQL Server</li>
   <li>Linq</li>
 </ul>
