@@ -3,7 +3,7 @@
 <h3>Desarrollo de sistema de reservas de espectáculo con Login y vistas segun Rol</h3>
 <h4>Tecnologías</h4>
 <ul>
-  <li>ASP.NET CORE</li>
+  <li>ASP.NET MVC Core 3.1.9</li>
   <li>Entity Framework</li>  
   <li>SQL Server</li>
   <li>Linq</li>
